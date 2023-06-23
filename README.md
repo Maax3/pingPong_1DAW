@@ -1,4 +1,4 @@
-# Calendario && Calculadora
+# PingPong
 
 Mini-juego realizado con Java y Swing en 1DAW. 
 
